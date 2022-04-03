@@ -330,7 +330,9 @@ and many other
 **📌  Let's understand Why DeFi with examples**
 
 1/ Many countries have declared Demonitization in past. Where existing national currency can no longer be used for exchange purposes
+
 2/ Have you ever sent money to anyone staying in some other country and have paid extra amount as fee
+
 3/ Have you feared that what will happen to your money if bank shuts down😱
 
 The above examples quoted are direct implication of the loopholes of current traditional financial system.
